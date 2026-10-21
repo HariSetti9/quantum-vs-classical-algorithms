@@ -1,0 +1,7 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8",
+  "max_probability_error": 1.7763568394002505e-14,
+  "scope": "Ideal real-valued state-vector simulation; not quantum hardware or a runtime benchmark."
+}

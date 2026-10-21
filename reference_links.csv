@@ -1,0 +1,21 @@
+number,key,title,reference_link,verification_date
+1,montanaro,"Quantum algorithms: An overview,",https://doi.org/10.1038/npjqi.2015.23,2026-10-21
+2,shor,"Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer,",https://doi.org/10.1137/S0097539795293172,2026-10-21
+3,grover,"A fast quantum mechanical algorithm for database search,",https://arxiv.org/abs/quant-ph/9605043,2026-10-21
+4,ronnow,"Defining and detecting quantum speedup,",https://doi.org/10.1126/science.1252319,2026-10-21
+5,hhl,"Quantum algorithm for linear systems of equations,",https://doi.org/10.1103/PhysRevLett.103.150502,2026-10-21
+6,aaronson,"Read the fine print,",https://doi.org/10.1038/nphys3272,2026-10-21
+7,fowler,"Surface codes: Towards practical large-scale quantum computation,",https://arxiv.org/abs/1208.0928,2026-10-21
+8,zalka,"Grover's quantum searching algorithm is optimal,",https://doi.org/10.1103/PhysRevA.60.2746,2026-10-21
+9,lloyd,"Universal quantum simulators,",https://doi.org/10.1126/science.273.5278.1073,2026-10-21
+10,berry,"Exponential improvement in precision for simulating sparse Hamiltonians,",https://doi.org/10.1145/2591796.2591854,2026-10-21
+11,farhi,"A quantum approximate optimization algorithm,",https://arxiv.org/abs/1411.4028,2026-10-21
+12,pomerance,"A tale of two sieves,",https://www.ams.org/notices/199612/pomerance.pdf,2026-10-21
+13,boyer,"Tight bounds on quantum searching,",https://arxiv.org/abs/quant-ph/9605034,2026-10-21
+14,brassard,"Quantum amplitude amplification and estimation,",https://arxiv.org/abs/quant-ph/0005055,2026-10-21
+15,gidney,"How to factor 2048 bit RSA integers in 8 hours using 20 million noisy qubits,",https://arxiv.org/abs/1905.09749,2026-10-21
+16,tang,"A quantum-inspired classical algorithm for recommendation systems,",https://doi.org/10.1145/3313276.3316310,2026-10-21
+17,mcardle,"Quantum computational chemistry,",https://arxiv.org/abs/1808.10402,2026-10-21
+18,cerezo,"Variational quantum algorithms,",https://arxiv.org/abs/2012.09265,2026-10-21
+19,mcclean,"Barren plateaus in quantum neural network training landscapes,",https://arxiv.org/abs/1803.11173,2026-10-21
+20,preskill,"Quantum computing in the NISQ era and beyond,",https://arxiv.org/abs/1801.00862,2026-10-21
